@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\bin\Debug\netcoreapp2.2\2.1 comparar.deps.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\bin\Debug\netcoreapp2.2\2.1 comparar.runtimeconfig.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\bin\Debug\netcoreapp2.2\2.1 comparar.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\bin\Debug\netcoreapp2.2\2.1 comparar.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\bin\Debug\netcoreapp2.2\2.1 comparar.pdb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\obj\Debug\netcoreapp2.2\2.1 comparar.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\obj\Debug\netcoreapp2.2\2.1 comparar.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\obj\Debug\netcoreapp2.2\2.1 comparar.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\obj\Debug\netcoreapp2.2\2.1 comparar.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\obj\Debug\netcoreapp2.2\2.1 comparar.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.1 comparar\obj\Debug\netcoreapp2.2\2.1 comparar.pdb

@@ -1,0 +1,22 @@
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.deps.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.runtimeconfig.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.pdb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.pdb
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.deps.json
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.runtimeconfig.json
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.runtimeconfig.dev.json
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.dll
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\bin\Debug\netcoreapp2.2\3.3 tercero.pdb
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.vbprojAssemblyReference.cache
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.AssemblyInfoInputs.cache
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.AssemblyInfo.vb
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.dll
+D:\Visual Basic\Estructuras_Control_Flujo\3.3 tercero\obj\Debug\netcoreapp2.2\3.3 tercero.pdb

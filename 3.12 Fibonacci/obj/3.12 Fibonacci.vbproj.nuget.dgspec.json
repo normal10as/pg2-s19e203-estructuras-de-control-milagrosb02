@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mili\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-milagrosb02\\Estructuras_Control_Flujo\\3.12 Fibonacci\\3.12 Fibonacci.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mili\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-milagrosb02\\Estructuras_Control_Flujo\\3.12 Fibonacci\\3.12 Fibonacci.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mili\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-milagrosb02\\Estructuras_Control_Flujo\\3.12 Fibonacci\\3.12 Fibonacci.vbproj",
+        "projectName": "3.12 Fibonacci",
+        "projectPath": "C:\\Users\\Mili\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-milagrosb02\\Estructuras_Control_Flujo\\3.12 Fibonacci\\3.12 Fibonacci.vbproj",
+        "packagesPath": "C:\\Users\\Mili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mili\\Source\\Repos\\normal10as\\pg2-s19e203-estructuras-de-control-milagrosb02\\Estructuras_Control_Flujo\\3.12 Fibonacci\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

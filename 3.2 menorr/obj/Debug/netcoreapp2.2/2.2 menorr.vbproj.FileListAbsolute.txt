@@ -1,0 +1,11 @@
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\bin\Debug\netcoreapp2.2\2.2 menorr.deps.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\bin\Debug\netcoreapp2.2\2.2 menorr.runtimeconfig.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\bin\Debug\netcoreapp2.2\2.2 menorr.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\bin\Debug\netcoreapp2.2\2.2 menorr.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\bin\Debug\netcoreapp2.2\2.2 menorr.pdb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\obj\Debug\netcoreapp2.2\2.2 menorr.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\obj\Debug\netcoreapp2.2\2.2 menorr.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\obj\Debug\netcoreapp2.2\2.2 menorr.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\obj\Debug\netcoreapp2.2\2.2 menorr.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\obj\Debug\netcoreapp2.2\2.2 menorr.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\2.2 menorr\obj\Debug\netcoreapp2.2\2.2 menorr.pdb

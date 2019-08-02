@@ -1,0 +1,22 @@
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.deps.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.runtimeconfig.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.runtimeconfig.dev.json
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.pdb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.vbprojAssemblyReference.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.vbproj.CoreCompileInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.AssemblyInfoInputs.cache
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.AssemblyInfo.vb
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.dll
+C:\Users\Mili\source\repos\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.pdb
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.deps.json
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.runtimeconfig.json
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.runtimeconfig.dev.json
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.dll
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\bin\Debug\netcoreapp2.2\3.4 ventas.pdb
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.vbprojAssemblyReference.cache
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.vbproj.CoreCompileInputs.cache
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.AssemblyInfoInputs.cache
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.AssemblyInfo.vb
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.dll
+D:\Visual Basic\Estructuras_Control_Flujo\3.4 ventas\obj\Debug\netcoreapp2.2\3.4 ventas.pdb
